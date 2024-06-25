@@ -1,0 +1,5 @@
+Flask==2.0.1
+mysql-connector-python==8.0.26
+openai==0.7.0
+pinecone-client==0.1.6
+requests==2.25.1
